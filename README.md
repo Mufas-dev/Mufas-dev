@@ -31,7 +31,7 @@ Full Stack MERN Developer
 - Instant communication
 
 👉 Live: https://your-link
-👉 GitHub: https://github.com/Mufas-dev/your-re
+👉 GitHub: https://github.com/Mufas-dev/Mern-chat-app
 
 ---
 
