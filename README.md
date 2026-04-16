@@ -30,7 +30,7 @@ Full Stack MERN Developer
 - Secure login system
 - Instant communication
 
-👉 Live: https://your-link
+👉 Live: https://mern-chat-app-blue-gamma.vercel.app/login
 👉 GitHub: https://github.com/Mufas-dev/Mern-chat-app
 
 ---
