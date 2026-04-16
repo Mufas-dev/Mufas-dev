@@ -20,7 +20,7 @@ Full Stack MERN Developer
 - Secure JWT authentication
 
 👉 Live: https://e-commerce-app-2c01.onrender.com
-👉 GitHub: https://github.com/Mufas-dev/your-repo
+👉 GitHub: https://github.com/Mufas-dev/E-commerce-App
 
 ---
 
@@ -31,7 +31,7 @@ Full Stack MERN Developer
 - Instant communication
 
 👉 Live: https://your-link
-👉 GitHub: https://github.com/Mufas-dev/your-repo
+👉 GitHub: https://github.com/Mufas-dev/your-re
 
 ---
 
