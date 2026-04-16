@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Mufas 👋
 
-<!--
-**Mufas-dev/Mufas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack MERN Developer
 
-Here are some ideas to get you started:
+🚀 I build scalable web applications using React, Node.js, and MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, REST APIs, JWT, Socket.io
+
+🚀 Featured Projects
+
+🛒 E-Commerce Platform
+
+- Full-featured e-commerce system with cart, orders, and authentication
+- Built using MERN stack
+- Secure JWT authentication
+
+👉 Live: https://your-link
+👉 GitHub: https://github.com/Mufas-dev/your-repo
+
+---
+
+💬 Real-Time Chat App
+
+- Real-time messaging using Socket.io
+- Secure login system
+- Instant communication
+
+👉 Live: https://your-link
+👉 GitHub: https://github.com/Mufas-dev/your-repo
+
+---
+
+📫 Contact
+
+- Email: mufasdev@gmail.com
+- Portfolio: https://portfolio-pkd2.onrender.com
