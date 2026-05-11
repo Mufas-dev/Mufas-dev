@@ -1,251 +1,103 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║          MUHAMMED MUFAS PA — MERN + AI DEVELOPER             ║
-║          github.com/Mufas-dev  ·  mufasdev@gmail.com         ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30,32&height=180&section=header&text=%20Muhammed%20Mufas%20Pa%20&fontSize=50&fontColor=00FFC8&fontAlignY=55&desc=◈%20MERN%20Stack%20%20·%20%20AI%20Engineer%20%20·%20%20OpenAI%20Developer%20◈&descSize=15&descAlignY=80&descColor=AAAAAA&stroke=00FFC8&strokeWidth=1" width="100%" />
+# Muhammed Mufas Pa
+
+**Junior MERN + AI Developer**
+
+I build full-stack web applications with React, Node.js, and MongoDB — and integrate AI features using the OpenAI API. Currently focused on shipping real products and improving my backend architecture skills.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mufas-pa-87389a38b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mufasdev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mufas-dev)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00FFC8&center=true&vCenter=true&repeat=true&width=680&lines=%E2%96%B6+Deploying+AI+to+Production+Daily;%E2%96%B6+MERN+Stack+%C3%97+OpenAI+%C3%97+Real+Users;%E2%96%B6+From+Idea+to+Live+App+in+Days;%E2%96%B6+Building+the+Intelligent+Web;%E2%96%B6+Available+for+High-Impact+Roles)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mufas-pa-87389a38b/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/-mufasdev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mufasdev@gmail.com)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/-Mufas--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mufas-dev)&nbsp;&nbsp;[![Live App](https://img.shields.io/badge/-Live%20App%20↗-00FFC8?style=flat-square&logoColor=black)](https://e-commerce-app-production-9a91.up.railway.app/)
-
-&nbsp;
-
-![](https://komarev.com/ghpvc/?username=Mufas-dev&color=00FFC8&style=flat-square&label=profile+views)&nbsp;&nbsp;![](https://img.shields.io/github/followers/Mufas-dev?style=flat-square&color=00FFC8&label=followers)&nbsp;&nbsp;![](https://img.shields.io/badge/status-open%20to%20work-00FFC8?style=flat-square)
-
-</div>
-
-<br/>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+## About Me
 
-### `$ whoami`
-
-```
-Name    : Muhammed Mufas Pa
-Role    : MERN + AI Developer
-Stack   : React · Node · Express · MongoDB
-AI      : OpenAI API · LLMs · Semantic Search
-Cloud   : Railway · Cloudinary · Vercel
-Status  : ● Available for work
-```
-
-> I build full-stack AI-powered web applications that
-> ship to real users. MERN stack is my foundation —
-> OpenAI integrations are my edge.
-
-**What I ship:**
-- 🤖 AI chatbots and semantic search systems
-- ⚡ REST APIs with JWT auth and MongoDB
-- 🎨 React frontends with modern UI/UX
-- ☁️ Full-stack apps deployed on Railway
-
-</td>
-<td valign="top" width="45%">
-
-### `$ skills --list`
-
-```json
-{
-  "frontend"  : ["React.js","Tailwind","Vite","JS ES6+"],
-  "backend"   : ["Node.js","Express.js","REST APIs"],
-  "database"  : ["MongoDB","Mongoose"],
-  "ai_layer"  : ["OpenAI API","Embeddings","Chatbots"],
-  "payments"  : ["Razorpay"],
-  "media"     : ["Cloudinary CDN"],
-  "devops"    : ["Railway","Git","GitHub"],
-  "auth"      : ["JWT","bcrypt","Sessions"],
-  "available" : true
-}
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
+- Building full-stack apps with the MERN stack
+- Integrating AI features (OpenAI API, chatbots, semantic search) into real projects
+- Interested in clean UI/UX and scalable backend design
+- Self-taught, continuously learning through building and shipping
+- Open to junior roles, freelance work, and collaboration
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<div align="center">
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" /><img src="https://skillicons.dev/icons?i=js,tailwind,vite,git&theme=dark&perline=4" /><img src="https://skillicons.dev/icons?i=github,vscode,postman,html&theme=dark&perline=4" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<br/><br/>
+**Backend**
 
-| AI & Intelligence | Cloud & Payments | Auth & APIs |
-|:---:|:---:|:---:|
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-00FFC8?style=flat-square) ![Semantic Search](https://img.shields.io/badge/Semantic_Search-7C3AED?style=flat-square) | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF) | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens) ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square) |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-</div>
+**AI & Services**
 
-<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
----
+**Tools**
 
-## 🚀 Featured Project
-
-<div align="center">
-
-[![E-Commerce App](https://opengraph.githubassets.com/1/Mufas-dev/E-commerce-App)](https://github.com/Mufas-dev/E-commerce-App)
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**👟 Shoe Culture — AI E-Commerce**
-
-A production-grade, full-stack MERN e-commerce platform for sneaker culture — live on Railway with OpenAI powering the search and support layer.
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Open%20App-00FFC8?style=for-the-badge&labelColor=065F46)](https://e-commerce-app-production-9a91.up.railway.app/)
-[![Source Code](https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Mufas-dev/E-commerce-App)
-
-<br/>
-
-`React` · `Node.js` · `Express` · `MongoDB`
-`OpenAI API` · `Razorpay` · `Cloudinary` · `JWT` · `Railway`
-
-</td>
-<td valign="top" width="50%">
-
-| Feature | |
-|:---|:---:|
-| 🤖 AI Semantic Search (OpenAI) | ✅ |
-| 💬 AI Customer Support Chatbot | ✅ |
-| 💳 Razorpay Live Payments | ✅ |
-| 📦 Cart · Checkout · Orders | ✅ |
-| 📊 Admin Dashboard | ✅ |
-| 🖼️ Cloudinary Media CDN | ✅ |
-| 🔐 JWT Auth + Role Control | ✅ |
-| 📱 Mobile-First Responsive UI | ✅ |
-
-</td>
-</tr>
-</table>
-
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## Featured Project
 
-<div align="center">
+### Shoe Culture — AI E-Commerce Platform
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mufas-dev&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=6&title=Stars,Commits,Repositories,Issues,Followers,PullRequest" width="100%" />
+A full-stack MERN e-commerce app built for sneaker culture. Integrated OpenAI for AI-powered search and a customer support chatbot. Deployed live on Railway with Razorpay payment processing.
 
-</div>
+**Features:**
+- AI-powered product search using OpenAI embeddings
+- AI customer support chatbot
+- Secure JWT authentication with role-based access
+- Razorpay payment integration
+- Responsive, mobile-first UI
 
-<br/>
+**Stack:** React · Node.js · Express · MongoDB · OpenAI API · Razorpay · Cloudinary · JWT · Railway
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mufas-dev&theme=dark&hide_border=true&background=0D1117&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8&sideLabels=AAAAAA&dates=555555&stroke=00FFC8&sideNums=FFFFFF&currStreakNum=00FFC8" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mufas-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFC8&icon_color=00FFC8&text_color=DDDDDD&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufas-dev&layout=donut&hide_border=true&bg_color=0D1117&title_color=00FFC8&text_color=DDDDDD&langs_count=6" width="38%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mufas-dev&bg_color=0D1117&color=00FFC8&line=00FFC8&point=FFFFFF&area=true&area_color=00FFC8&hide_border=true&custom_title=Contribution%20Activity" width="60%" />
-
-</div>
-
-<br/>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00B37E?style=for-the-badge&logo=railway&logoColor=white)](https://e-commerce-app-production-9a91.up.railway.app/)
+[![GitHub Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mufas-dev/E-commerce-App)
 
 ---
 
-## 🔬 Current Focus
+## GitHub Stats
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🤖  Integrating OpenAI into production MERN applications         │
-│   🏗️  Designing scalable backend systems with Express + MongoDB    │
-│   🎨  Building modern React UIs with Tailwind + component design   │
-│   ☁️  Deploying full-stack apps on Railway with CI/CD             │
-│   📚  Deepening knowledge of LLMs, embeddings, and AI pipelines    │
-│                                                                     │
-│   💼  Open to: Full-time Roles · Freelance · Collaboration         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Mufas-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=D1D5DB&include_all_commits=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufas-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=D1D5DB&langs_count=6" width="40%" />
 
 </div>
-
-<br/>
 
 ---
 
-## 🤝 Let's Connect
+## Current Focus
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammed-mufas-pa-87389a38b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:mufasdev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Mufas-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**⚡ Response time: within 24 hours**
-
-</div>
-
-<br/>
+- Deepening MERN stack skills through real projects
+- Building AI-powered web apps with OpenAI integrations
+- Improving backend architecture and REST API design
+- Learning scalable system patterns and deployment practices
 
 ---
 
-<div align="center">
+## Contact
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20,30,32&height=100&section=footer&reversal=true" width="100%" />
+I'm open to junior developer roles, freelance projects, and collaborations.
 
-<br/>
-
-```
-"Building intelligent digital experiences — where clean code meets AI."
-                                               — Muhammed Mufas Pa
-```
-
-</div>
+- **LinkedIn:** [muhammed-mufas-pa](https://www.linkedin.com/in/muhammed-mufas-pa-87389a38b/)
+- **Email:** mufasdev@gmail.com
+- **GitHub:** [Mufas-dev](https://github.com/Mufas-dev)
